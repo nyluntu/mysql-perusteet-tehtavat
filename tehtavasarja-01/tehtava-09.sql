@@ -1,6 +1,9 @@
 /*
 --- KYSYMYS ---
 
-9. Edellistä kampanjaa tarvitaan myös lista elokuvien nimestä, vuokran hinnasta ja luokituksesta tulevalle verkkosivulle. Elokuvien genreksi pitää olla merkitty siis animaatio, lapsille tai perheille.
+(Käytä tehtävässä LIKE tai REGEXP -operaattoria)
+
+9. Tulevaa viikonlopun kampanjaa varten tarvitaan lista niiden elokuvien nimistä, 
+vuokran hinnasta ja luokituksesta, joiden nimi alkaa merkeillä 'pri'?
 
 */

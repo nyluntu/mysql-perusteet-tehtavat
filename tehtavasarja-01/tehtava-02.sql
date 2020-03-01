@@ -1,6 +1,8 @@
 /*
 --- KYSYMYS ---
 
-2. Keitä eri näyttelijöitä on merkitty tietokantaan? Etu- ja sukunimi riittävät
+(Käytä DISTINCT -operaattoria)
+
+2. Listaa osoitetietojen perusteella asiakkaiden kaupunginosat (district) siten, että niistä esiintyy vain yksilölliset arvot.
 
 */

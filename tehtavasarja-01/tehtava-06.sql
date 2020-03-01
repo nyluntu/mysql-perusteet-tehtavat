@@ -1,5 +1,6 @@
 /*
 --- KYSYMYS ---
 
-6. Montako erilaista kielivaihtoehtoa elokuville on olemassa?
+6. Järjestelmä näyttää virhettä elokuvalle, jonka tunniste on 453? Selvitä kyseisen elokuvan nimi.
+
 */

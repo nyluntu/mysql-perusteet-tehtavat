@@ -1,8 +1,11 @@
 /*
 --- KYSYMYS ---
-Vinkki tehtävään 5. Lue sakila tietokannan kuvauksesta mikä on inventory 
-taulun tarkoitus. https://dev.mysql.com/doc/sakila/en/sakila-structure-tables-inventory.html
 
-5. Inventaariota varten tarvitaan tieto montako kopiota (inventory taulu) elokuvista on yhteensä olemassa? Ei tarvitse erotella sitä onko elokuva tällä hetkellä vuokrattu vai ei. Riittää kokonaismäärä.
+5. Tulevaa pääsiäistä varten on suunnitteilla kampanja lapsiperheille. 
+
+Kampanjaa varten tarvitaan lista elokuvien nimistä, vuokrien hinnasta 
+ja luokituksista tulevalle verkkosivulle.
+
+Elokuvien genren pitää kuulua seuraavaan ryhmään: 'animaatio', 'lapsille' tai 'perheille'. 
 
 */

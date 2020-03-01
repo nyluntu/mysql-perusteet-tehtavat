@@ -1,6 +1,9 @@
 /*
 --- KYSYMYS ---
 
-7. Montako eri kategoriaa elokuville on olemassa?
+(Käytä LIKE -operaattoria)
+
+7. Markkinointia varten tarvitaan lista kaikkien niiden asiakkaiden tunnisteesta, etunimestä, 
+sukunimestä ja sähköpostista, joiden nimessä esiintyy 'Angela'.
 
 */

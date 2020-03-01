@@ -1,6 +1,9 @@
 /*
 --- KYSYMYS ---
 
-8. Tulevaa pääsiäistä varten on suunnitteilla kampanja lapsiperheille. Kampanjaa varten tarvitaan tieto siitä monta elokuvaa on olemassa, joiden genreksi on merkitty animaatio, lapsille tai perheille
+(Käytä tehtävässä LIKE tai REGEXP -operaattoria)
+
+8. Tulevaa viikonlopun kampanjaa varten tarvitaan lista niiden elokuvien nimistä, 
+vuokran hinnasta ja luokituksesta, joiden kuvauksessa mainitaan sana 'amazing'? 
 
 */
